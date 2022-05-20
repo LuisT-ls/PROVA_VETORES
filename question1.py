@@ -1,8 +1,11 @@
-from cgi import print_arguments
+arraysnames = []
 
+count = 0
+i = []
 
-username = str(input())
+for count in range(4):
+    username = str(input("\n"))
+    arraysnames.append(username)
 
-print(username)
-
-print("FIM!")
+    i = arraysnames.index(username)
+    print(f"Nome = {username}", "\t",  "Posição =", i)
