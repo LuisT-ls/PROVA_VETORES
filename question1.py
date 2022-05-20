@@ -1,1 +1,3 @@
-print("Olá!")
+username = str(input())
+
+print(username)
