@@ -8,4 +8,4 @@ for count in range(4):
     arraysnames.append(username)
 
     i = arraysnames.index(username)
-    print(f"Nome = {username}", "\t",  "Posição =", i)
+    print(f"Nome = {username}", "\n",  "Posição =", i)
