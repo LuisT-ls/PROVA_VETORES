@@ -22,8 +22,3 @@ for count in range(50):
         
     if(set(R) == set(G)):
         acertos = acertos + 1
-        
-        if acertos >= 5:
-            print("\nAPROVADO")
-        else:
-            print("\nREPROVADO")
