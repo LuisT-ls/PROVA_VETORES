@@ -1,6 +1,5 @@
 from math import prod
 
-
 vetor1 = []
 vetor2 = []
 
