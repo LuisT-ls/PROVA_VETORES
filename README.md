@@ -14,7 +14,7 @@ Q3 -
 
     Escreva um que leia um vetor G de 20 elementos caracter que representa o gabarito de uma prova. A seguir, para cada um dos 50 alunos da turma, leia o vetor de respostas (R) do aluno e conte o número de acertos. Mostre o no de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a 5; e mostre uma mensagem de REPROVADO, caso contrário.
 
-Q4 - 
+Q4 -
 
     Queremos efetuar a compactação de um vetor V1 de N algarismos 0 e 1 (N <=40) digitado pelo usuário (onde cada algarismo ocupa uma posição do vetor) , de forma que o vetor resultante V2 de N elementos (N <= 40) possua menos elementos do que o vetor original. A regra de compactação é a seguinte:
 
