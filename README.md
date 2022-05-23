@@ -12,7 +12,7 @@ Q2 -
 
 Q3 - 
 
-    Escreva um que leia um vetor G de 20 elementos caracter que representa o gabarito de uma prova. A seguir, para cada um dos 50 alunos da turma, leia o vetor de respostas (R) do aluno e conte o número de acertos. Mostre o no de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a 5; e mostre uma mensagem de REPROVADO, caso contrário.
+    Escreva um código que leia um vetor G de 20 elementos caracter que representa o gabarito de uma prova. A seguir, para cada um dos 50 alunos da turma, leia o vetor de respostas (R) do aluno e conte o número de acertos. Mostre o Nº de acertos do aluno e uma mensagem APROVADO, se a nota for maior ou igual a 5; e mostre uma mensagem de REPROVADO, caso contrário.
 
 Q4 -
 
