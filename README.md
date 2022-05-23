@@ -16,7 +16,7 @@ Q3 -
 
 Q4 -
 
-    Queremos efetuar a compactação de um vetor V1 de N algarismos 0 e 1 (N <=40) digitado pelo usuário (onde cada algarismo ocupa uma posição do vetor) , de forma que o vetor resultante V2 de N elementos (N <= 40) possua menos elementos do que o vetor original. A regra de compactação é a seguinte:
+    Queremos efetuar a compactação de um vetor V1 de N algarismos 0 e 1 (N <= 40) digitado pelo usuário (onde cada algarismo ocupa uma posição do vetor) , de forma que o vetor resultante V2 de N elementos (N <= 40) possua menos elementos do que o vetor original. A regra de compactação é a seguinte:
 
         o primeiro elemento do vetor V2 é o número de algarismos zero que o vetor V1 contém, a partir do seu início, até o primeiro algarismo um;
 
