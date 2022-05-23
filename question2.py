@@ -3,7 +3,6 @@ from math import prod
 
 vetor1 = []
 vetor2 = []
-vetor3 = []
 
 i = 0
 
