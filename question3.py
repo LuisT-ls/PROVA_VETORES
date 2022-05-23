@@ -21,6 +21,9 @@ for count in range(50):
         R.append(respostas)
         
     if(set(R) == set(G)):
-        print("\nAPROVADO")
-    else:
-        print("\nREPROVADO")
+        acertos = acertos + 1
+        
+        if acertos >= 5:
+            print("\nAPROVADO")
+        else:
+            print("\nREPROVADO")
